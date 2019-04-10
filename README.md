@@ -1,3 +1,9 @@
+#1
+
+Closes #1
+
+Eats #1
+
 ### Pup
 The Ultimate Boilerplate for Products.
 
