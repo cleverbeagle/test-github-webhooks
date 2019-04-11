@@ -6,13 +6,7 @@ Blurp
 
 AWAIT
 
-STYLEBENDER
-
-
-
-
-
-
+STYLEBENDE
 
 Closes #1
 
