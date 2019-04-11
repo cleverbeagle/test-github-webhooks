@@ -6,7 +6,7 @@ Blurp
 
 AWAIT
 
-STYLEBENDE
+STYLEBEND
 
 Closes #1
 
