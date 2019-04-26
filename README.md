@@ -4,11 +4,7 @@ Blah
 
 Blurp
 
-
-
-Closes #1
-
-Eats #1
+Closes #49
 
 ### Pup
 The Ultimate Boilerplate for Products.
